@@ -1,0 +1,6 @@
+{
+  "o_dir": "./qq2tel.txt",
+  "qc_dir": "./data.txt.qc",
+  "burst_size": 1073741824,
+  "out_line_num": 1
+}
